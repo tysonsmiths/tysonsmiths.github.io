@@ -1,0 +1,67 @@
+﻿  Source.cpp
+C:\finalProject\OpenGLSample\OpenGLSample\Shape.h(1,9): warning C4068: unknown pragma 'once_flag'
+C:\finalProject\OpenGLSample\OpenGLSample\Cylinder.h(73,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\Cuboid.h(15,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\Cuboid.h(16,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\Cuboid.h(17,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\Plane.h(1,9): warning C4068: unknown pragma 'once_flag'
+C:\finalProject\OpenGLSample\OpenGLSample\Plane.h(18,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\Plane.h(19,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(8,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(9,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(10,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(11,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(12,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(15,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(24,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(24,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(26,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(26,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(29,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(29,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(31,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(31,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawTable.h(38,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(11,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(14,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(15,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(16,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(17,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(18,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(20,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(25,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(32,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(46,127): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(46,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(59,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(59,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(63,125): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(63,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(63,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(69,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(79,183): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(79,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(79,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(92,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\finalProject\OpenGLSample\OpenGLSample\drawArmsAndMonitors.h(110,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawMacBook.h(13,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawMacBook.h(16,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawMacBook.h(17,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawMacBook.h(18,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\finalProject\OpenGLSample\OpenGLSample\drawMacBook.h(19,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawMacBook.h(26,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawMacBook.h(26,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawMacBook.h(34,129): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawMacBook.h(34,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\drawMacBook.h(41,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\renderObjects.h(23,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\renderObjects.h(28,65): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\Source.cpp(252,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\Source.cpp(377,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\Source.cpp(378,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\Source.cpp(382,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\Source.cpp(383,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\Source.cpp(385,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\Source.cpp(386,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\finalProject\OpenGLSample\OpenGLSample\Source.cpp(396,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\finalProject\OpenGLSample\Debug\OpenGLSample.exe
