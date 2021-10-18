@@ -1,13 +1,28 @@
 ## Welcome to Tyson Smith's homepage
 
-# Introduction 
+# Introduction/ Professional Self-Assessment
 
-This is an ePortfolio showing three projects I worked on as my time as a computer science student. For each project I conduct a video narrated code review. I've then enhanced the projects based on the code review and the enhanced projects is what you'll find here. Finally at the end I include a professional self-assessment.
 
-Each of the projects I've selected for the ePortfolio correspond to one of the following categories 
+This is an ePortfolio showing three artifacts/projects I worked on as my time as a computer science student. This ePortfolio is done for the Computer Science Capstone class.
+
+For each artifact I conduct a video narrated code review. I've then enhanced the artifacts based on the code review and the enhanced projects is what you'll find here. Each of the projects I've selected for the ePortfolio correspond to one of the following categories 
 * [Software Design and Engineering](#software-design-and-engineering)
 * [Algorithms and Data Structures](#algorithms-and-data-structures)
 * [Databases](#databases)
+
+Enhancing the projects in this capstone class has been quite rewarding. I've been able to improve upon and increase my skill in each of the categories mentioned above. In general, my time as a computer science student I've learned a lot in the overall field of computer science. Specifically I've learned much on the following topics
+
+* collaborating in a team environment 
+* communicating to stakeholders
+* data structures and algorithms
+* software engineering and database
+* security
+
+I've also began working fulltime for the past year and a half which has allowed me to further develop these skills in a more practical environment.
+
+The three artifacts in this short ePortfolio should hopefully give a demonstration of my skills I've gained in both my schooling and proffesional experience.
+
+
 
 # Software Design and Engineering
 
