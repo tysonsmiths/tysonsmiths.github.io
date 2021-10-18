@@ -11,7 +11,7 @@ Each of the projects I've selected for the ePortfolio correspond to one of the f
 
 # Software Design and Engineering
 
-### [Link to code](https://github.com/tysonsmiths/tysonsmiths.github.io/tree/main/software_design_and_engineering)
+### [Link to code](https://github.com/tysonsmiths/tysonsmiths.github.io/tree/main/software_engineering_and_design)
 
 ### [YouTube link to Code Review](https://youtu.be/iea957VEV7E)
 
