@@ -1,4 +1,4 @@
-## Welcome to Tyson Smith's homepage
+## Welcome to Tyson Smith's ePortfolio
 
 # Introduction/ Professional Self-Assessment
 
