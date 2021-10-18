@@ -1,5 +1,3 @@
-## Welcome to Tyson Smith's ePortfolio
-
 # Introduction/ Professional Self-Assessment
 
 This is an ePortfolio showing three artifacts/projects I worked on during my time as a computer science student. This ePortfolio is done for the Computer Science Capstone class.
