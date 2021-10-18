@@ -11,9 +11,7 @@ Each of the projects I've selected for the ePortfolio correspond to one of the f
 
 # Software Design and Engineering
 
-## Link to Artifact
-
-## Code review
+### [YouTube link to Code Review](https://youtu.be/iea957VEV7E)
 
 ## Narrative
 
@@ -31,9 +29,7 @@ I think it’s good to have a C++ project in your ePortfolio due to the low-leve
 
 # Algorithms and Data Structures
 
-## Link to Artifact
-
-## Code review
+### [YouTube link to Code Review](https://youtu.be/q4lVnW2yam8)
 
 ## Narrative
 
@@ -47,9 +43,7 @@ The last artifact I’m including in my ePortfolio will be in Python, so having 
 
 # Databases
 
-## Link to Artifact
-
-## Code review
+### [YouTube link to Code Review](https://youtu.be/YRR9gZhBwgQ)
 
 ## Narrative
 
