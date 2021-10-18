@@ -5,11 +5,11 @@
 This is an ePortfolio showing three projects I worked on as my time as a computer science student. For each project I conduct a video narrated code review. I've then enhanced the projects based on the code review and the enhanced projects is what you'll find here. Finally at the end I include a professional self-assessment.
 
 Each of the projects I've selected for the ePortfolio correspond to one of the following categories 
-* Software design and engineering
-* Algorithms and data structure
-* Databases 
+* [Software Design and Engineering](#software-design-and-engineering)
+* [Algorithms and Data Structures](#algorithms-and-data-structures)
+* [Databases](#databases)
 
-# Software design and engineering
+# Software Design and Engineering
 
 ## Link to Artifact
 
@@ -29,7 +29,7 @@ Although the assignment was difficult, I very much enjoyed the challenge.
 
 I think it’s good to have a C++ project in your ePortfolio due to the low-level nature of the language. Also, there’s quite a bit of math involved in the project so that helps display those abilities as well. Overall, this was one of the most difficult homework projects I’ve had so it makes a lot of sense to include it.
 
-# Algorithms and data structure
+# Algorithms and Data Structures
 
 ## Link to Artifact
 
