@@ -11,6 +11,8 @@ Each of the projects I've selected for the ePortfolio correspond to one of the f
 
 # Software Design and Engineering
 
+### [Link to code](https://github.com/tysonsmiths/tysonsmiths.github.io/tree/main/software_design_and_engineering)
+
 ### [YouTube link to Code Review](https://youtu.be/iea957VEV7E)
 
 ## Narrative
@@ -29,6 +31,8 @@ I think it’s good to have a C++ project in your ePortfolio due to the low-leve
 
 # Algorithms and Data Structures
 
+### [Link to code](https://github.com/tysonsmiths/tysonsmiths.github.io/tree/main/algorithms_and_data_structures)
+
 ### [YouTube link to Code Review](https://youtu.be/q4lVnW2yam8)
 
 ## Narrative
@@ -42,6 +46,8 @@ A while back in my algorithms and data structures class we implemented multiple 
 The last artifact I’m including in my ePortfolio will be in Python, so having this be in JavaScript will show greater diversity of programming language ability. I also have further plans to elaborate on the Big-O reality of each sorting approach which an understanding of is a good skill to represent on my ePortfolio.
 
 # Databases
+
+### [Link to code](https://github.com/tysonsmiths/tysonsmiths.github.io/tree/main/database)
 
 ### [YouTube link to Code Review](https://youtu.be/YRR9gZhBwgQ)
 
