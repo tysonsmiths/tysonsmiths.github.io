@@ -1,3 +1,9 @@
+
+// Big-O
+// Best: nlog(n)
+// Average: nlog(n)
+// Worst: nlog(n)
+
 function merge(left, right) {
     let array = []
 

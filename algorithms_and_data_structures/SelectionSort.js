@@ -1,3 +1,9 @@
+
+// Big-O
+// Best: n^2
+// Average: n^2
+// Worst: n^2
+
 function selectionSort(array) {
     const length = array.length;
 

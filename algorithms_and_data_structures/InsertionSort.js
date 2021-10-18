@@ -1,4 +1,8 @@
-// all done
+
+// Big-O
+// Best: n
+// Average: n^2
+// Worst: n^2
 
 function insertionSort(array) {
     const length = array.length;

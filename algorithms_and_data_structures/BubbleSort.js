@@ -1,4 +1,9 @@
-// finished
+
+// Big-O
+// Best: n
+// Average: n^2
+// Worst: n^2
+
 function bubbleSort(array) {
     const length = array.length;
     let didSwap = true;

@@ -1,3 +1,9 @@
+
+// Big-O
+// Best: nlog(n)
+// Average: nlog(n)
+// Worst: n^2
+
 function partition(array, start, end) {
     const pivotValue = array[end];
     let pivotIndex = start;
